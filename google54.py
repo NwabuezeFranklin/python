@@ -1,6 +1,6 @@
 import re
 def extract_pid(log_line):
-    regex = r"\[(\d+)\] , (^A-Z.*A_Z$)"
+    regex = r"\[(\d+)\]:+ ([\w.]*)"
     result = re.search(regex, log_line)
     if result is None:
         return None
