@@ -1,5 +1,5 @@
 # Python Programming Languages
-## Most projects done here was inspired by **-Derek Banas**
+## Most projects done was inspired by **-Derek Banas**
 ## Acknowledgements :pray:
 Wish to appreciate all who might have been involved in making this journey easier Directly or indirectly
 
