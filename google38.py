@@ -8,3 +8,4 @@ with open ("new.txt") as file:
         print(line.strip().upper())
 
 file open()
+#Diligence is key.
