@@ -9,4 +9,4 @@ Wish to appreciate all who might have been involved in making this journey easie
 ## Continuos Practiced
 
 
-#### To be updated soonest..
+#### To be updated soonest...
