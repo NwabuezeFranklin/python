@@ -1,5 +1,5 @@
 ## Python Programming Language
-## Most projects done was inspired by **-Derek Banas**
+## Most projects done was inspired by **-Derek Banas** and JetBrains
 ## Acknowledgements :pray:
 ### All files necessary for python
 Wish to appreciate all who might have been involved in making this journey easier Directly or indirectly
