@@ -1,7 +1,7 @@
 ## Python Programming Language
 ## Most projects done was inspired by **-Derek Banas** and JetBrains
 ## Acknowledgements :pray:
-### All files necessary for python
+### All files necessary for python development
 Wish to appreciate all who might have been involved in making this journey easier Directly or indirectly
 
 ![meme](https://coursemarks.com/wp-content/uploads/2020/11/2538582_65d7_4.jpg.webp)
